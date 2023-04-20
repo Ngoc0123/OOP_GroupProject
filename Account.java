@@ -1,5 +1,4 @@
 package OOP_GroupProject;
-
 public class Account {
     private String username;
     private String password;
