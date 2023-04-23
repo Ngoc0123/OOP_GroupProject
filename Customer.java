@@ -1,11 +1,10 @@
-public class{
+public class Customer{
   
   private int level;
-  private string id;
-  private string name;
-  private strinng address;
-  private string phone;
-  private 
-  
+  private String id;
+  private String name;
+  private String address;
+  private String phone;
+
   
 }
