@@ -27,7 +27,7 @@ public class Rental {
         this.item = item;
     }
     public static returnItem(){
-        status == "availible";
+        status == "available";
         System.out.print("Your Item has been return");
     }
 
