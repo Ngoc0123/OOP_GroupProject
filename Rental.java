@@ -1,7 +1,7 @@
 public class Rental {
     private Item item;
     private int amount;
-    private string status;
+    private String status;
 
     public int getAmount() {
         return amount;
@@ -11,11 +11,11 @@ public class Rental {
         this.amount = amount;
     }
 
-    public string getStatus() {
+    public String getStatus() {
         return status;
     }
 
-    public void setStatus(string status) {
+    public void setStatus(String status) {
         this.status = status;
     }
 
@@ -26,8 +26,8 @@ public class Rental {
     public void setItem(Item item) {
         this.item = item;
     }
-    public static returnItem(){
-        status == "available";
+    public void returnItem(){
+        status = "available";
         System.out.print("Your Item has been return");
     }
 
