@@ -1,4 +1,4 @@
-public class Customer{
+public class Customer extends Account{
   
   private int level;
   private String id;
@@ -6,5 +6,4 @@ public class Customer{
   private String address;
   private String phone;
 
-  
 }
